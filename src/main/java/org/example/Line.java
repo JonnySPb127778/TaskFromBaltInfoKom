@@ -40,3 +40,4 @@ public class Line {
         return false; // иначе поле не корректное!
     }
 }
+

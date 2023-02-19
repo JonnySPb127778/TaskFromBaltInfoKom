@@ -40,3 +40,4 @@ public class Grouper {
         return columnValuesList; // Вернуть коллекцию с мапами столбцов с группами
     }
 }
+

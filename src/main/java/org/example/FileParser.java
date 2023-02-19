@@ -50,3 +50,5 @@ public class FileParser {
         return new LinesReport(linesList, badLineCounter);
     }
 }
+
+

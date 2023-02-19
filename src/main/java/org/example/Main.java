@@ -75,4 +75,3 @@ public class Main {
     public static Long startTime() { return System.currentTimeMillis(); }
     public static long endTime(Long startTime) {return System.currentTimeMillis() - startTime; }
 }
-
